@@ -1,0 +1,4 @@
+[submodule "ia_project_management"]
+	path = ia_project_management
+	url = git@github.com:iaodoo/ia_project_management.git
+	branch = 13.0
